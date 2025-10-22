@@ -1,0 +1,27 @@
+.container{
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#vermelho {
+    width: 250px;
+    height: 250px;
+    background-color: #ff0000;
+    position: vermelho;
+}
+
+#amarelo {
+    width: 300px;
+    height: 200px;
+    background-color: #FFFF00;
+}
+
+#azul {
+    width: 250px;
+    height: 250px;
+    background-color: #0000ff;
+}
+
